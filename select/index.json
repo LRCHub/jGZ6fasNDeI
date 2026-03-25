@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "僕の戦争 KOHTA YAMAMOTO Remix",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2026-03-25T16:45:13.435477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕の戦争",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/01_僕の戦争_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕の戦争",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/02_僕の戦争_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕の戦争",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/03_僕の戦争_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕の戦争",
+      "artist": "SHINSEI KAMATTE CHAN",
+      "has_synced": true,
+      "path": "select/04_僕の戦争_SHINSEI_KAMATTE_CHAN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕の戦争",
+      "artist": "SHINSEI KAMATTE CHAN",
+      "has_synced": true,
+      "path": "select/05_僕の戦争_SHINSEI_KAMATTE_CHAN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕の戦争 KOHTA YAMAMOTO Remix",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/06_僕の戦争_KOHTA_YAMAMOTO_Remix_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My War (From \"Attack on Titan\") - 僕の戦争",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/07_My_War_(From__Attack_on_Titan_)_-_僕の戦争_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My War (Attack on Titan) - 僕の戦争",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/08_My_War_(Attack_on_Titan)_-_僕の戦争_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boku no Sensou (僕の戦争)",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/09_Boku_no_Sensou_(僕の戦争)_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "僕の戦争 - Instrumental",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/10_僕の戦争_-_Instrumental_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "僕の戦争 (Instrumental)",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": false,
+      "path": "select/11_僕の戦争_(Instrumental)_Shinsei_Kamattechan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My War (Attack on Titan) - 僕の戦争",
+      "artist": "Ryuven, Ner Leva",
+      "has_synced": true,
+      "path": "select/12_My_War_(Attack_on_Titan)_-_僕の戦争_Ryuven,_Ner_Leva.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "僕の戦争 - Bokuno sensou",
+      "artist": "Shinsei kamattechan",
+      "has_synced": true,
+      "path": "select/13_僕の戦争_-_Bokuno_sensou_Shinsei_kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "僕の戦争 - My War",
+      "artist": "SHINSEI KAMATTE CHAN",
+      "has_synced": true,
+      "path": "select/14_僕の戦争_-_My_War_SHINSEI_KAMATTE_CHAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕の戦争",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_僕の戦争_神聖かまってちゃん.txt"
+    }
+  ]
+}
